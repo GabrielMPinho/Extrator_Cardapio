@@ -1,0 +1,11 @@
+run_id,processed_at,source_file,restaurant_name,is_menu,legibility,n_categories,n_items,status,gx_score,gx_passed,gx_total,latency_s,extraction_s,model,input_tokens,output_tokens,cost_usd,notes,error
+6bc83e54b057,2026-11-10T12:32:46+00:00,images (1).jpeg,,True,boa,6,27,aprovado,1.0,12,12,10.14,9.81,gpt-5.4-mini-2026-03-17,1408,2037,0.0,"Alguns textos pequenos de descrição estão pouco nítidos, mas o cardápio é legível no geral.",
+f835124b00a2,2026-11-10T12:51:18+00:00,images (4).jpeg,Burgers Fire,True,boa,4,17,aprovado,1.0,15,15,4.98,4.59,gpt-5.4-mini-2026-03-17,1404,637,0.0,,
+e01c972b606a,2026-11-10T14:32:17+00:00,images (2).jpeg,,True,boa,3,16,aprovado,0.933,14,15,11.57,11.33,gpt-5-mini-2025-08-07,1408,1004,0.00236,,
+3123f0646208,2026-11-10T14:32:29+00:00,images (3).jpeg,BURGUERS,True,boa,4,16,aprovado,1.0,15,15,14.92,14.72,gpt-5-mini-2025-08-07,1408,1748,0.003848,,
+cfb03606a8fc,2026-11-10T14:32:44+00:00,images (5).jpeg,,True,boa,2,9,aprovado,1.0,15,15,8.71,8.54,gpt-5-mini-2025-08-07,1274,913,0.002144,,
+eabc81c0af15,2026-11-10T14:32:53+00:00,images (6).jpeg,Borcelle,True,boa,3,20,aprovado,1.0,15,15,15.03,14.87,gpt-5-mini-2025-08-07,1274,1548,0.003415,,
+f28d4335079b,2026-11-10T14:33:08+00:00,images (7).jpeg,BORCELLE CAFETERIA,True,boa,1,10,aprovado,1.0,15,15,12.82,12.66,gpt-5-mini-2025-08-07,1408,1429,0.00321,,
+25cedd5816cd,2026-11-10T14:33:21+00:00,images (8).jpeg,,True,boa,2,23,aprovado,1.0,15,15,12.94,12.59,gpt-5-mini-2025-08-07,1274,1293,0.002904,,
+5c12264c4a43,2026-11-10T14:33:33+00:00,images.jpeg,,True,boa,3,17,aprovado,1.0,15,15,11.44,11.2,gpt-5-mini-2025-08-07,1408,1207,0.002766,,
+9d58e13b5a6b,2026-11-10T14:35:47+00:00,images (1).jpeg,,True,media,6,27,aprovado,1.0,15,15,21.81,21.49,gpt-5-mini-2025-08-07,1408,2251,0.004854,,

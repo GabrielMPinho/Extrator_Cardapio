@@ -1,0 +1,7 @@
+prefect>=3.9
+great_expectations>=1.24
+openai>=3.49
+streamlit>=1.67
+pandas>=3.0
+pillow>=13.0
+python-dotenv

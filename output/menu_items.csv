@@ -1,0 +1,183 @@
+run_id,processed_at,source_file,restaurant_name,currency,category,item_name,description,variant_label,price,attributes,flag_missing_required,flag_price_unreasonable,flag_price_outlier,flag_duplicate,flag_item_equals_category,flag_variant_order,menu_status
+6bc83e54b057,2026-11-10T12:32:56+00:00,images (1).jpeg,,BRL,HAMBURGUER PADRÃO,X-Bacon,"HAMBÚRGUER, PRESUNTO, MUSSARELA E BACON",,15.9,,False,False,False,False,,,aprovado
+6bc83e54b057,2026-11-10T12:32:56+00:00,images (1).jpeg,,BRL,HAMBURGUER PADRÃO,X-Salada,"ALFACE, TOMATE, HAMBÚRGUER, PRESUNTO, MUSSARELA E BACON",,16.9,,False,False,False,False,,,aprovado
+6bc83e54b057,2026-11-10T12:32:56+00:00,images (1).jpeg,,BRL,HAMBURGUER PADRÃO,X-Tudo,"HAMBÚRGUER, PRESUNTO, MUSSARELA, SALSICHA E OVOS",,17.9,,False,False,False,False,,,aprovado
+6bc83e54b057,2026-11-10T12:32:56+00:00,images (1).jpeg,,BRL,HAMBURGUER PADRÃO,X-Completo,"2 HAMBÚRGUERES, PRESUNTO, MUSSARELA, SALSICHA E OVOS",,24.9,,False,False,False,False,,,aprovado
+6bc83e54b057,2026-11-10T12:32:56+00:00,images (1).jpeg,,BRL,HAMBURGUER ARTESANAL 150GR,X-Bacon,"HAMBÚRGUER, PRESUNTO, MUSSARELA E BACON",,22.9,,False,False,False,False,,,aprovado
+6bc83e54b057,2026-11-10T12:32:56+00:00,images (1).jpeg,,BRL,HAMBURGUER ARTESANAL 150GR,X-Salada,"ALFACE, TOMATE, HAMBÚRGUER, PRESUNTO, MUSSARELA E BACON",,20.9,,False,False,False,False,,,aprovado
+6bc83e54b057,2026-11-10T12:32:56+00:00,images (1).jpeg,,BRL,HAMBURGUER ARTESANAL 150GR,X-Tudo,"HAMBÚRGUER, PRESUNTO, MUSSARELA, SALSICHA, OVOS E MILHO",,25.9,,False,False,False,False,,,aprovado
+6bc83e54b057,2026-11-10T12:32:56+00:00,images (1).jpeg,,BRL,HAMBURGUER ARTESANAL 150GR,X-Completo,"2 HAMBÚRGUERES, PRESUNTO, MUSSARELA, SALSICHA, SALADA E OVOS",,28.9,,False,False,False,False,,,aprovado
+6bc83e54b057,2026-11-10T12:32:56+00:00,images (1).jpeg,,BRL,LANCHES COM FRANGO,Frango bacon,"FRANGO, BACON, MUSSARELA E SALADA",,15.9,,False,False,False,False,,,aprovado
+6bc83e54b057,2026-11-10T12:32:56+00:00,images (1).jpeg,,BRL,LANCHES COM FRANGO,Frango salada,"FRANGO, MUSSARELA E SALADA",,16.9,,False,False,False,False,,,aprovado
+6bc83e54b057,2026-11-10T12:32:56+00:00,images (1).jpeg,,BRL,LANCHES COM FRANGO,Frango tudo,"FRANGO, MUSSARELA, MILHO, SALSICHA, OVOS E SALADA",,17.9,,False,False,False,False,,,aprovado
+6bc83e54b057,2026-11-10T12:32:56+00:00,images (1).jpeg,,BRL,LANCHES COM FRANGO,Frango completo,"DOBRO DE FRANGO, PRESUNTO, MUSSARELA, SALSICHA, OVOS",,24.9,,False,False,False,False,,,aprovado
+6bc83e54b057,2026-11-10T12:32:56+00:00,images (1).jpeg,,BRL,LANCHES COM LOMBO,Lombo bacon,"LOMBO, BACON, MUSSARELA E SALADA",,15.9,,False,False,False,False,,,aprovado
+6bc83e54b057,2026-11-10T12:32:56+00:00,images (1).jpeg,,BRL,LANCHES COM LOMBO,Lombo salada,"LOMBO, SALADA, MUSSARELA E MILHO",,16.9,,False,False,False,False,,,aprovado
+6bc83e54b057,2026-11-10T12:32:56+00:00,images (1).jpeg,,BRL,LANCHES COM LOMBO,Lombo tudo,"LOMBO, MUSSARELA, MILHO, SALSICHA, OVOS E SALADA",,17.9,,False,False,False,False,,,aprovado
+6bc83e54b057,2026-11-10T12:32:56+00:00,images (1).jpeg,,BRL,LANCHES COM LOMBO,Lombo completo,"DOBRO DE LOMBO, PRESUNTO, MUSSARELA, SALSICHA, OVOS",,24.9,,False,False,False,False,,,aprovado
+6bc83e54b057,2026-11-10T12:32:56+00:00,images (1).jpeg,,BRL,LANCHES COM FILÉ,Filé bacon,"FILÉ, BACON, MUSSARELA E SALADA",,17.9,,False,False,False,False,,,aprovado
+6bc83e54b057,2026-11-10T12:32:56+00:00,images (1).jpeg,,BRL,LANCHES COM FILÉ,Filé salada,"FILÉ, SALADA, MUSSARELA E MILHO",,19.9,,False,False,False,False,,,aprovado
+6bc83e54b057,2026-11-10T12:32:56+00:00,images (1).jpeg,,BRL,LANCHES COM FILÉ,Filé tudo,"FILÉ, MUSSARELA, MILHO, SALSICHA, OVOS E SALADA",,20.9,,False,False,False,False,,,aprovado
+6bc83e54b057,2026-11-10T12:32:56+00:00,images (1).jpeg,,BRL,LANCHES COM FILÉ,Filé completo,"DOBRO DE FILÉ, PRESUNTO, MUSSARELA, SALSICHA, OVOS E MILHO",,28.9,,False,False,False,False,,,aprovado
+6bc83e54b057,2026-11-10T12:32:56+00:00,images (1).jpeg,,BRL,ACOMPANHAMENTOS E BEBIDAS,Batata frita pequena,,,8.9,,False,False,False,False,,,aprovado
+6bc83e54b057,2026-11-10T12:32:56+00:00,images (1).jpeg,,BRL,ACOMPANHAMENTOS E BEBIDAS,Batata frita grande,,,12.9,,False,False,False,False,,,aprovado
+6bc83e54b057,2026-11-10T12:32:56+00:00,images (1).jpeg,,BRL,ACOMPANHAMENTOS E BEBIDAS,Refrigerante litro,,,7.9,,False,False,False,False,,,aprovado
+6bc83e54b057,2026-11-10T12:32:56+00:00,images (1).jpeg,,BRL,ACOMPANHAMENTOS E BEBIDAS,Refrigerante lata,,,3.9,,False,False,False,False,,,aprovado
+6bc83e54b057,2026-11-10T12:32:56+00:00,images (1).jpeg,,BRL,ACOMPANHAMENTOS E BEBIDAS,Cerveja Lata,,,6.9,,False,False,False,False,,,aprovado
+6bc83e54b057,2026-11-10T12:32:56+00:00,images (1).jpeg,,BRL,ACOMPANHAMENTOS E BEBIDAS,Molho de alho,,,1.9,,False,False,False,False,,,aprovado
+6bc83e54b057,2026-11-10T12:32:56+00:00,images (1).jpeg,,BRL,ACOMPANHAMENTOS E BEBIDAS,Molho da casa,,,1.9,,False,False,False,False,,,aprovado
+f835124b00a2,2026-11-10T12:51:23+00:00,images (4).jpeg,Burgers Fire,BRL,HAMBÚRGUER,X-BURGUER,"Carne, queijo e salada",,7.0,,False,False,False,False,False,False,aprovado
+f835124b00a2,2026-11-10T12:51:23+00:00,images (4).jpeg,Burgers Fire,BRL,HAMBÚRGUER,X-EGG,"Carne, queijo, ovo e salada",,8.0,,False,False,False,False,False,False,aprovado
+f835124b00a2,2026-11-10T12:51:23+00:00,images (4).jpeg,Burgers Fire,BRL,HAMBÚRGUER,X-BACON,"Carne, queijo, bacon e salada",,9.0,,False,False,False,False,False,False,aprovado
+f835124b00a2,2026-11-10T12:51:23+00:00,images (4).jpeg,Burgers Fire,BRL,HAMBÚRGUER,X-CALABRESA,"Carne, queijo, calabresa e salada",,9.0,,False,False,False,False,False,False,aprovado
+f835124b00a2,2026-11-10T12:51:23+00:00,images (4).jpeg,Burgers Fire,BRL,HAMBÚRGUER,X-TUDO,"Carne, queijo, ovo, bacon e salada",,11.0,,False,False,False,False,False,False,aprovado
+f835124b00a2,2026-11-10T12:51:23+00:00,images (4).jpeg,Burgers Fire,BRL,HAMBÚRGUER,X-FIRE,"2 carnes, 2 queijos, ovo, bacon, calabresa e salada",,14.0,,False,False,False,False,False,False,aprovado
+f835124b00a2,2026-11-10T12:51:23+00:00,images (4).jpeg,Burgers Fire,BRL,HAMBÚRGUER,TRI FIRE,"3 carnes, 3 queijos, ovo, bacon, calabresa e salada",,16.0,,False,False,False,False,False,False,aprovado
+f835124b00a2,2026-11-10T12:51:23+00:00,images (4).jpeg,Burgers Fire,BRL,HAMBÚRGUER,MEGA FIRE,"4 carnes, 4 queijos, bacon, calabresa e salada",,18.0,,False,False,False,False,False,False,aprovado
+f835124b00a2,2026-11-10T12:51:23+00:00,images (4).jpeg,Burgers Fire,BRL,HAMBÚRGUER,EXAGERADO FIRE,"5 carnes, 5 queijos, bacon, calabresa e salada",,20.0,,False,False,False,False,False,False,aprovado
+f835124b00a2,2026-11-10T12:51:23+00:00,images (4).jpeg,Burgers Fire,BRL,BATATA FRITA,BATATA P,,,7.0,,False,False,False,False,False,False,aprovado
+f835124b00a2,2026-11-10T12:51:23+00:00,images (4).jpeg,Burgers Fire,BRL,BATATA FRITA,BATATA M,Bacon ou calabresa,,12.0,,False,False,False,False,False,False,aprovado
+f835124b00a2,2026-11-10T12:51:23+00:00,images (4).jpeg,Burgers Fire,BRL,BATATA FRITA,BATATA G,Bacon e calabresa,,17.0,,False,False,False,False,False,False,aprovado
+f835124b00a2,2026-11-10T12:51:23+00:00,images (4).jpeg,Burgers Fire,BRL,SOBREMESA,BROWNIE MORANGO,,,7.0,,False,False,False,False,False,False,aprovado
+f835124b00a2,2026-11-10T12:51:23+00:00,images (4).jpeg,Burgers Fire,BRL,SOBREMESA,BROWNIE DOCE DE LEITE,,,7.0,,False,False,False,False,False,False,aprovado
+f835124b00a2,2026-11-10T12:51:23+00:00,images (4).jpeg,Burgers Fire,BRL,SOBREMESA,BROWNIE NINHO,,,7.0,,False,False,False,False,False,False,aprovado
+f835124b00a2,2026-11-10T12:51:23+00:00,images (4).jpeg,Burgers Fire,BRL,BEBIDAS,GUARACAMP,,,2.5,,False,False,False,False,False,False,aprovado
+f835124b00a2,2026-11-10T12:51:23+00:00,images (4).jpeg,Burgers Fire,BRL,BEBIDAS,COCA-COLA,,,11.0,,False,False,False,False,False,False,aprovado
+e01c972b606a,2026-11-10T14:32:28+00:00,images (2).jpeg,,BRL,Tamanhos,15 cm - Rende 10 fatias,,,80.0,,False,False,False,False,False,False,aprovado
+e01c972b606a,2026-11-10T14:32:28+00:00,images (2).jpeg,,BRL,Tamanhos,20 cm - Rende 25 fatias,,,140.0,,False,False,False,False,False,False,aprovado
+e01c972b606a,2026-11-10T14:32:28+00:00,images (2).jpeg,,BRL,Tamanhos,25 cm - Rende 35 fatias,,,190.0,,False,False,False,False,False,False,aprovado
+e01c972b606a,2026-11-10T14:32:28+00:00,images (2).jpeg,,BRL,Tamanhos,30 cm - Rende 45 fatias,,,250.0,,False,False,False,False,False,False,aprovado
+e01c972b606a,2026-11-10T14:32:28+00:00,images (2).jpeg,,BRL,Recheios,Coco,,,,,True,False,False,False,False,False,aprovado
+e01c972b606a,2026-11-10T14:32:28+00:00,images (2).jpeg,,BRL,Recheios,Morango,,,,,True,False,False,False,False,False,aprovado
+e01c972b606a,2026-11-10T14:32:28+00:00,images (2).jpeg,,BRL,Recheios,Brigadeiro,,,,,True,False,False,False,False,False,aprovado
+e01c972b606a,2026-11-10T14:32:28+00:00,images (2).jpeg,,BRL,Recheios,Chocolate,,,,,True,False,False,False,False,False,aprovado
+e01c972b606a,2026-11-10T14:32:28+00:00,images (2).jpeg,,BRL,Recheios,Limão,,,,,True,False,False,False,False,False,aprovado
+e01c972b606a,2026-11-10T14:32:28+00:00,images (2).jpeg,,BRL,Recheios,Doce de leite,,,,,True,False,False,False,False,False,aprovado
+e01c972b606a,2026-11-10T14:32:28+00:00,images (2).jpeg,,BRL,Recheios,Maracujá,,,,,True,False,False,False,False,False,aprovado
+e01c972b606a,2026-11-10T14:32:28+00:00,images (2).jpeg,,BRL,Recheios,Milho,,,,,True,False,False,False,False,False,aprovado
+e01c972b606a,2026-11-10T14:32:28+00:00,images (2).jpeg,,BRL,Massas,Coco,,,,,True,False,False,False,False,False,aprovado
+e01c972b606a,2026-11-10T14:32:28+00:00,images (2).jpeg,,BRL,Massas,Morango,,,,,True,False,False,False,False,False,aprovado
+e01c972b606a,2026-11-10T14:32:28+00:00,images (2).jpeg,,BRL,Massas,Brigadeiro,,,,,True,False,False,False,False,False,aprovado
+e01c972b606a,2026-11-10T14:32:28+00:00,images (2).jpeg,,BRL,Massas,Chocolate,,,,,True,False,False,False,False,False,aprovado
+3123f0646208,2026-11-10T14:32:44+00:00,images (3).jpeg,BURGUERS,BRL,SIMPLES,H-BACON,"ALFACE, TOMATE, BATATA PALHA, MILHO, HAMBURGUE, PRESUNTO, MUSARELA E BACON",,22.0,,False,False,False,False,False,False,aprovado
+3123f0646208,2026-11-10T14:32:44+00:00,images (3).jpeg,BURGUERS,BRL,SIMPLES,BACON ESPECIAL,"ALFACE, TOMATE, BATATA PALHA, MILHO, HAMBURGUE, PRESUNTO, MUSARELA, BACON, SALSICHA E OVO",,22.0,,False,False,False,False,False,False,aprovado
+3123f0646208,2026-11-10T14:32:44+00:00,images (3).jpeg,BURGUERS,BRL,SIMPLES,H-FRANGO,"ALFACE, TOMATE, BATATA PALHA, MILHO, FILÉ DE FRANGO, PRESUNTO, MUSARELA E BACON",,22.0,,False,False,False,False,False,False,aprovado
+3123f0646208,2026-11-10T14:32:44+00:00,images (3).jpeg,BURGUERS,BRL,SIMPLES,FRANGO ESPECIAL,"ALFACE, TOMATE, BATATA PALHA, MILHO, FILÉ DE FRANGO, PRESUNTO, MUSARELA, BACON, SALSICHA E OVO",,22.0,,False,False,False,False,False,False,aprovado
+3123f0646208,2026-11-10T14:32:44+00:00,images (3).jpeg,BURGUERS,BRL,ESPECIAIS,H-BACON TURBO,"ALFACE, TOMATE, BATATA PALHA, MILHO, HAMBURGUE, PRESUNTO, MUSARELA E BACON",,22.0,,False,False,False,False,False,False,aprovado
+3123f0646208,2026-11-10T14:32:44+00:00,images (3).jpeg,BURGUERS,BRL,ESPECIAIS,BACON MEGA,"ALFACE, TOMATE, BATATA PALHA, MILHO, HAMBURGUE, PRESUNTO, MUSARELA, BACON, SALSICHA E OVO",,22.0,,False,False,False,False,False,False,aprovado
+3123f0646208,2026-11-10T14:32:44+00:00,images (3).jpeg,BURGUERS,BRL,ESPECIAIS,H-FRANGO TURBO,"ALFACE, TOMATE, BATATA PALHA, MILHO, FILÉ DE FRANGO, PRESUNTO, MUSARELA E BACON",,22.0,,False,False,False,False,False,False,aprovado
+3123f0646208,2026-11-10T14:32:44+00:00,images (3).jpeg,BURGUERS,BRL,ESPECIAIS,FRANGO MEGA,"ALFACE, TOMATE, BATATA PALHA, MILHO, FILÉ DE FRANGO, PRESUNTO, MUSARELA, BACON, SALSICHA E OVO",,22.0,,False,False,False,False,False,False,aprovado
+3123f0646208,2026-11-10T14:32:44+00:00,images (3).jpeg,BURGUERS,BRL,ACOMPANHAMENTOS,BATATA PQ. 100GR,,,7.0,,False,False,False,False,False,False,aprovado
+3123f0646208,2026-11-10T14:32:44+00:00,images (3).jpeg,BURGUERS,BRL,ACOMPANHAMENTOS,BATATA GRD. 500GR,,,10.0,,False,False,False,False,False,False,aprovado
+3123f0646208,2026-11-10T14:32:44+00:00,images (3).jpeg,BURGUERS,BRL,ACOMPANHAMENTOS,BATATA QUEIJO E BACON,,,10.0,,False,False,False,False,False,False,aprovado
+3123f0646208,2026-11-10T14:32:44+00:00,images (3).jpeg,BURGUERS,BRL,ACOMPANHAMENTOS,ANÉIS DE CEBOLA,,,12.0,,False,False,False,False,False,False,aprovado
+3123f0646208,2026-11-10T14:32:44+00:00,images (3).jpeg,BURGUERS,BRL,BEBIDAS,REFRIGERANTE 2 LITROS,,,9.0,,False,False,False,False,False,False,aprovado
+3123f0646208,2026-11-10T14:32:44+00:00,images (3).jpeg,BURGUERS,BRL,BEBIDAS,REFRIGERANTE LATA,,,5.0,,False,False,False,False,False,False,aprovado
+3123f0646208,2026-11-10T14:32:44+00:00,images (3).jpeg,BURGUERS,BRL,BEBIDAS,SUCO NATURAL,,,7.0,,False,False,False,False,False,False,aprovado
+3123f0646208,2026-11-10T14:32:44+00:00,images (3).jpeg,BURGUERS,BRL,BEBIDAS,SUCO LATA,,,5.0,,False,False,False,False,False,False,aprovado
+cfb03606a8fc,2026-11-10T14:32:52+00:00,images (5).jpeg,,BRL,Prensados,X-ALCATRA,"pão, ketchup, tomate, batata palha, alface, presunto, queijo e bacon",,30.0,,False,False,False,False,False,False,aprovado
+cfb03606a8fc,2026-11-10T14:32:52+00:00,images (5).jpeg,,BRL,Prensados,X-SALADA,"pão, ketchup, tomate, batata palha, alface, presunto, queijo e bacon",,20.0,,False,False,False,False,False,False,aprovado
+cfb03606a8fc,2026-11-10T14:32:52+00:00,images (5).jpeg,,BRL,Prensados,X-FRANGO,"pão, ketchup, tomate, batata palha, alface, presunto, queijo e bacon",,28.0,,False,False,False,False,False,False,aprovado
+cfb03606a8fc,2026-11-10T14:32:52+00:00,images (5).jpeg,,BRL,Prensados,X-BACON,"pão, ketchup, tomate, batata palha, alface, presunto, queijo e bacon",,28.0,,False,False,False,False,False,False,aprovado
+cfb03606a8fc,2026-11-10T14:32:52+00:00,images (5).jpeg,,BRL,Prensados,X-CALABRESA,"pão, ketchup, tomate, batata palha, alface, presunto, queijo e bacon",,28.0,,False,False,False,False,False,False,aprovado
+cfb03606a8fc,2026-11-10T14:32:52+00:00,images (5).jpeg,,BRL,Prensados,X-TUDO,"pão, ketchup, tomate, batata palha, alface, presunto, queijo e bacon",,42.0,serve 2,False,False,False,False,False,False,aprovado
+cfb03606a8fc,2026-11-10T14:32:52+00:00,images (5).jpeg,,BRL,Adicionais,FRANGO DESFIADO,,,4.0,,False,False,False,False,False,False,aprovado
+cfb03606a8fc,2026-11-10T14:32:52+00:00,images (5).jpeg,,BRL,Adicionais,TOMATE SECO,,,8.0,,False,False,False,False,False,False,aprovado
+cfb03606a8fc,2026-11-10T14:32:52+00:00,images (5).jpeg,,BRL,Adicionais,CEBOLA,,,5.0,,False,False,False,False,False,False,aprovado
+eabc81c0af15,2026-11-10T14:33:08+00:00,images (6).jpeg,Borcelle,BRL,Sanduíches,SIMPLES,"Hambúrguer bovino 180g, queijo, cebola",,12.0,,False,False,False,False,False,False,aprovado
+eabc81c0af15,2026-11-10T14:33:08+00:00,images (6).jpeg,Borcelle,BRL,Sanduíches,BACON,"Hambúrguer bovino 180g, queijo, cebola e bacon",,10.0,,False,False,False,False,False,False,aprovado
+eabc81c0af15,2026-11-10T14:33:08+00:00,images (6).jpeg,Borcelle,BRL,Sanduíches,DUPLO,"Dois hambúrgueres 150g, queijo mussarela, cebola",,12.0,,False,False,False,False,False,False,aprovado
+eabc81c0af15,2026-11-10T14:33:08+00:00,images (6).jpeg,Borcelle,BRL,Sanduíches,TURBINADO,"Hambúrguer bovino 180g, queijo, cebola, bacon, milho",,10.0,,False,False,False,False,False,False,aprovado
+eabc81c0af15,2026-11-10T14:33:08+00:00,images (6).jpeg,Borcelle,BRL,Sanduíches,FRANGO,"Hambúrguer de frango, queijo mussarela, bacon, milho",,10.0,,False,False,False,False,False,False,aprovado
+eabc81c0af15,2026-11-10T14:33:08+00:00,images (6).jpeg,Borcelle,BRL,Sanduíches,FRANGO COM BACON,"Hambúrguer de frango, queijo mussarela, cebola e bacon",,10.0,,False,False,False,False,False,False,aprovado
+eabc81c0af15,2026-11-10T14:33:08+00:00,images (6).jpeg,Borcelle,BRL,Acréscimo,QUEIJO,,,7.0,,False,False,False,False,False,False,aprovado
+eabc81c0af15,2026-11-10T14:33:08+00:00,images (6).jpeg,Borcelle,BRL,Acréscimo,BACON,,,5.0,,False,False,False,False,False,False,aprovado
+eabc81c0af15,2026-11-10T14:33:08+00:00,images (6).jpeg,Borcelle,BRL,Acréscimo,QUEIJO PARMESÃO,,,4.0,,False,False,False,False,False,False,aprovado
+eabc81c0af15,2026-11-10T14:33:08+00:00,images (6).jpeg,Borcelle,BRL,Acréscimo,CEBOLA,,,4.0,,False,False,False,False,False,False,aprovado
+eabc81c0af15,2026-11-10T14:33:08+00:00,images (6).jpeg,Borcelle,BRL,Acréscimo,REQUEIJÃO,,,4.0,,False,False,False,False,False,False,aprovado
+eabc81c0af15,2026-11-10T14:33:08+00:00,images (6).jpeg,Borcelle,BRL,Acréscimo,BATATA FRITA,,,8.0,,False,False,False,False,False,False,aprovado
+eabc81c0af15,2026-11-10T14:33:08+00:00,images (6).jpeg,Borcelle,BRL,Bebidas,REFRIGERANTE DE COLA,,,12.0,,False,False,False,False,False,False,aprovado
+eabc81c0af15,2026-11-10T14:33:08+00:00,images (6).jpeg,Borcelle,BRL,Bebidas,REFRIGERANTE DE LIMÃO,,,12.0,,False,False,False,False,False,False,aprovado
+eabc81c0af15,2026-11-10T14:33:08+00:00,images (6).jpeg,Borcelle,BRL,Bebidas,REFRIGERANTE ZERO,,,12.0,,False,False,False,False,False,False,aprovado
+eabc81c0af15,2026-11-10T14:33:08+00:00,images (6).jpeg,Borcelle,BRL,Bebidas,SODA ITALIANA,,,12.0,,False,False,False,False,False,False,aprovado
+eabc81c0af15,2026-11-10T14:33:08+00:00,images (6).jpeg,Borcelle,BRL,Bebidas,SUCO DE LARANJA,,,12.0,,False,False,False,False,False,False,aprovado
+eabc81c0af15,2026-11-10T14:33:08+00:00,images (6).jpeg,Borcelle,BRL,Bebidas,CERVEJA,,,12.0,,False,False,False,False,False,False,aprovado
+eabc81c0af15,2026-11-10T14:33:08+00:00,images (6).jpeg,Borcelle,BRL,Bebidas,ÁGUA COM GÁS,,,12.0,,False,False,False,False,False,False,aprovado
+eabc81c0af15,2026-11-10T14:33:08+00:00,images (6).jpeg,Borcelle,BRL,Bebidas,ÁGUA SEM GÁS,,,12.0,,False,False,False,False,False,False,aprovado
+f28d4335079b,2026-11-10T14:33:21+00:00,images (7).jpeg,BORCELLE CAFETERIA,BRL,PAES,PÃO FRANCÊS ARTESANAL,"Casca crocante, miolo leve e fresco",,2.5,,False,False,False,False,False,False,aprovado
+f28d4335079b,2026-11-10T14:33:21+00:00,images (7).jpeg,BORCELLE CAFETERIA,BRL,PAES,PÃO ITALIANO RÚSTICO,"Fermentação longa, sabor intenso",,12.0,,False,False,False,False,False,False,aprovado
+f28d4335079b,2026-11-10T14:33:21+00:00,images (7).jpeg,BORCELLE CAFETERIA,BRL,PAES,CIABATTA TRADIZIONALE,"Leve, com azeite e azeitonas grandes",,9.0,,False,False,False,False,False,False,aprovado
+f28d4335079b,2026-11-10T14:33:21+00:00,images (7).jpeg,BORCELLE CAFETERIA,BRL,PAES,PÃO DE CENTEIO COM NOZE,Toque ácido e crocância natural,,14.0,,False,False,False,False,False,False,aprovado
+f28d4335079b,2026-11-10T14:33:21+00:00,images (7).jpeg,BORCELLE CAFETERIA,BRL,PAES,PÃO AUSTRALIANO,"Doce na medida certa, com mel e cacau",,13.0,,False,False,False,False,False,False,aprovado
+f28d4335079b,2026-11-10T14:33:21+00:00,images (7).jpeg,BORCELLE CAFETERIA,BRL,PAES,PÃO MULTIGRÃOS,"Rico em fibras e sabor, com sementes",,12.0,,False,False,False,False,False,False,aprovado
+f28d4335079b,2026-11-10T14:33:21+00:00,images (7).jpeg,BORCELLE CAFETERIA,BRL,PAES,PÃO DE BATATA ARTESANAL,Textura úmida e sabor suave,,5.0,,False,False,False,False,False,False,aprovado
+f28d4335079b,2026-11-10T14:33:21+00:00,images (7).jpeg,BORCELLE CAFETERIA,BRL,PAES,BRIOCHE FRANCÊS,"Rico em manteiga, massa leve e macia",,14.0,,False,False,False,False,False,False,aprovado
+f28d4335079b,2026-11-10T14:33:21+00:00,images (7).jpeg,BORCELLE CAFETERIA,BRL,PAES,PÃO DE LEITE NOBRE,"Suave, perfeito para sanduíches delicados",,10.0,,False,False,False,False,False,False,aprovado
+f28d4335079b,2026-11-10T14:33:21+00:00,images (7).jpeg,BORCELLE CAFETERIA,BRL,PAES,PÃO INTEGRAL RÚSTICO,"100% integral, leve dulçor do mel",,11.0,,False,False,False,False,False,False,aprovado
+25cedd5816cd,2026-11-10T14:33:33+00:00,images (8).jpeg,,BRL,TRADICIONAIS R$ 80/KG,DOIS AMORES,"Bolo de massa branca e de chocolate, recheado com creme e brigadeiro",,80.0,,False,False,False,False,False,False,aprovado
+25cedd5816cd,2026-11-10T14:33:33+00:00,images (8).jpeg,,BRL,TRADICIONAIS R$ 80/KG,CHOCOLATE,"Bolo de massa de chocolate, recheado com creme e brigadeiro",,80.0,,False,False,False,False,False,False,aprovado
+25cedd5816cd,2026-11-10T14:33:33+00:00,images (8).jpeg,,BRL,TRADICIONAIS R$ 80/KG,SENSAÇÃO,"Bolo de massa branca, recheado com creme e morango",,80.0,,False,False,False,False,False,False,aprovado
+25cedd5816cd,2026-11-10T14:33:33+00:00,images (8).jpeg,,BRL,TRADICIONAIS R$ 80/KG,PRESTÍGIO,"Bolo de massa de chocolate, recheado com creme e coco",,80.0,,False,False,False,False,False,False,aprovado
+25cedd5816cd,2026-11-10T14:33:33+00:00,images (8).jpeg,,BRL,TRADICIONAIS R$ 80/KG,FRUTAS VERMELHAS,"Bolo de massa branca, recheado com creme e frutas vermelhas",,80.0,,False,False,False,False,False,False,aprovado
+25cedd5816cd,2026-11-10T14:33:33+00:00,images (8).jpeg,,BRL,TRADICIONAIS R$ 80/KG,MOUSSE DE LIMÃO,"Bolo de massa branca, recheado com mousse de limão",,80.0,,False,False,False,False,False,False,aprovado
+25cedd5816cd,2026-11-10T14:33:33+00:00,images (8).jpeg,,BRL,TRADICIONAIS R$ 80/KG,TENTAÇÃO,"Bolo de massa de chocolate, recheado com ganache e creme",,80.0,,False,False,False,False,False,False,aprovado
+25cedd5816cd,2026-11-10T14:33:33+00:00,images (8).jpeg,,BRL,TRADICIONAIS R$ 80/KG,NINHO,"Bolo de massa branca, recheado com creme de leite Ninho e brigadeiro branco",,80.0,,False,False,False,False,False,False,aprovado
+25cedd5816cd,2026-11-10T14:33:33+00:00,images (8).jpeg,,BRL,TRADICIONAIS R$ 80/KG,GELÉIA DE MORANGO,"Bolo de massa branca, recheado com geleia de morango e creme",,80.0,,False,False,False,False,False,False,aprovado
+25cedd5816cd,2026-11-10T14:33:33+00:00,images (8).jpeg,,BRL,TRADICIONAIS R$ 80/KG,CROCANTE,"Bolo de massa de chocolate, recheado com creme e lascas crocantes",,80.0,,False,False,False,False,False,False,aprovado
+25cedd5816cd,2026-11-10T14:33:33+00:00,images (8).jpeg,,BRL,TRADICIONAIS R$ 80/KG,BEM CASADO,"Bolo de massa branca, recheado com doce de leite e geleia",,80.0,,False,False,False,False,False,False,aprovado
+25cedd5816cd,2026-11-10T14:33:33+00:00,images (8).jpeg,,BRL,TRADICIONAIS R$ 80/KG,SALADA DE FRUTAS,"Bolo de massa branca, recheado com creme e pedaços de frutas",,80.0,,False,False,False,False,False,False,aprovado
+25cedd5816cd,2026-11-10T14:33:33+00:00,images (8).jpeg,,BRL,TRADICIONAIS R$ 80/KG,ABACAXI (com coco ou passas),"Bolo de massa branca, recheado com abacaxi e opção de coco ou passas",,80.0,,False,False,False,False,False,False,aprovado
+25cedd5816cd,2026-11-10T14:33:33+00:00,images (8).jpeg,,BRL,ESPECIAIS R$ 90/KG,TORTA DE MORANGO,"Bolo de massa branca, recheado com creme e morangos",,90.0,,False,False,False,False,False,False,aprovado
+25cedd5816cd,2026-11-10T14:33:33+00:00,images (8).jpeg,,BRL,ESPECIAIS R$ 90/KG,DIVINO,"Bolo de massa branca, recheado com creme e cobertura especial",,90.0,,False,False,False,False,False,False,aprovado
+25cedd5816cd,2026-11-10T14:33:33+00:00,images (8).jpeg,,BRL,ESPECIAIS R$ 90/KG,NINHO COM NUTELLA,"Bolo de massa branca, recheado com creme de leite Ninho e Nutella",,90.0,,False,False,False,False,False,False,aprovado
+25cedd5816cd,2026-11-10T14:33:33+00:00,images (8).jpeg,,BRL,ESPECIAIS R$ 90/KG,CHOCOLATE COM MORANGO,"Bolo de massa de chocolate, recheado com creme e morangos",,90.0,,False,False,False,False,False,False,aprovado
+25cedd5816cd,2026-11-10T14:33:33+00:00,images (8).jpeg,,BRL,ESPECIAIS R$ 90/KG,CAPPUCCINO,"Bolo de massa com café, recheado com creme e cobertura de cappuccino",,90.0,,False,False,False,False,False,False,aprovado
+25cedd5816cd,2026-11-10T14:33:33+00:00,images (8).jpeg,,BRL,ESPECIAIS R$ 90/KG,FERRERO,"Bolo inspirado no Ferrero, com recheio e cobertura de avelã e chocolate",,90.0,,False,False,False,False,False,False,aprovado
+25cedd5816cd,2026-11-10T14:33:33+00:00,images (8).jpeg,,BRL,ESPECIAIS R$ 90/KG,OLHO DE SOGRA ESPECIAL,"Bolo de massa branca, recheado com doce de leite e cobertura especial",,90.0,,False,False,False,False,False,False,aprovado
+25cedd5816cd,2026-11-10T14:33:33+00:00,images (8).jpeg,,BRL,ESPECIAIS R$ 90/KG,AMAZÔNICO,"Bolo de massa com chocolate, recheado e coberto com elementos especiais",,90.0,,False,False,False,False,False,False,aprovado
+25cedd5816cd,2026-11-10T14:33:33+00:00,images (8).jpeg,,BRL,ESPECIAIS R$ 90/KG,FLORESTA NEGRA,"Bolo de chocolate, recheado com cereja e creme",,90.0,,False,False,False,False,False,False,aprovado
+25cedd5816cd,2026-11-10T14:33:33+00:00,images (8).jpeg,,BRL,ESPECIAIS R$ 90/KG,MINIERO,"Bolo de massa branca, recheado com doce de leite e castanhas",,90.0,,False,False,False,False,False,False,aprovado
+5c12264c4a43,2026-11-10T14:33:44+00:00,images.jpeg,,BRL,Porções,Batata Canoa,,,20.0,,False,False,False,False,False,False,aprovado
+5c12264c4a43,2026-11-10T14:33:44+00:00,images.jpeg,,BRL,Porções,Batata Palito,,,20.0,,False,False,False,False,False,False,aprovado
+5c12264c4a43,2026-11-10T14:33:44+00:00,images.jpeg,,BRL,Porções,Iscas de Frango,,,20.0,,False,False,False,False,False,False,aprovado
+5c12264c4a43,2026-11-10T14:33:44+00:00,images.jpeg,,BRL,Porções,Peixe Empanado,,,20.0,,False,False,False,False,False,False,aprovado
+5c12264c4a43,2026-11-10T14:33:44+00:00,images.jpeg,,BRL,Porções,Mix de Vegetais Grelhados,,,20.0,,False,False,False,False,False,False,aprovado
+5c12264c4a43,2026-11-10T14:33:44+00:00,images.jpeg,,BRL,Porções,Mandioquinha Frita,,,20.0,,False,False,False,False,False,False,aprovado
+5c12264c4a43,2026-11-10T14:33:44+00:00,images.jpeg,,BRL,Bebidas,Refrigerante 1,,,20.0,,False,False,False,False,False,False,aprovado
+5c12264c4a43,2026-11-10T14:33:44+00:00,images.jpeg,,BRL,Bebidas,Refrigerante 2,,,20.0,,False,False,False,False,False,False,aprovado
+5c12264c4a43,2026-11-10T14:33:44+00:00,images.jpeg,,BRL,Bebidas,Suco natural,,,20.0,,False,False,False,False,False,False,aprovado
+5c12264c4a43,2026-11-10T14:33:44+00:00,images.jpeg,,BRL,Bebidas,Água,,,20.0,,False,False,False,False,False,False,aprovado
+5c12264c4a43,2026-11-10T14:33:44+00:00,images.jpeg,,BRL,Bebidas,Água com gás,,,20.0,,False,False,False,False,False,False,aprovado
+5c12264c4a43,2026-11-10T14:33:44+00:00,images.jpeg,,BRL,Pratos Principais,Picanha na Manteiga,"Picanha grelhada, arroz, farofa e vinagrete da casa",,20.0,,False,False,False,False,False,False,aprovado
+5c12264c4a43,2026-11-10T14:33:44+00:00,images.jpeg,,BRL,Pratos Principais,Tábua de Frios,"Mix de queijo, salames, molhos",,20.0,,False,False,False,False,False,False,aprovado
+5c12264c4a43,2026-11-10T14:33:44+00:00,images.jpeg,,BRL,Pratos Principais,Peixe Frito com Batata,Peixe empanado com batata gratinada e queijo,,20.0,,False,False,False,False,False,False,aprovado
+5c12264c4a43,2026-11-10T14:33:44+00:00,images.jpeg,,BRL,Pratos Principais,Picanha com Batata Frita,"Picanha grelhada, arroz, farofa e vinagrete da casa",,20.0,,False,False,False,False,False,False,aprovado
+5c12264c4a43,2026-11-10T14:33:44+00:00,images.jpeg,,BRL,Pratos Principais,Costela Fogo de Chão,"Picanha grelhada, arroz, farofa e vinagrete da casa",,20.0,,False,False,False,False,False,False,aprovado
+5c12264c4a43,2026-11-10T14:33:44+00:00,images.jpeg,,BRL,Pratos Principais,Tábua Mista G,"Batata frita, picanha, tilápia, asa de frango, molhos",,20.0,,False,False,False,False,False,False,aprovado
+9d58e13b5a6b,2026-11-10T14:36:09+00:00,images (1).jpeg,,BRL,HAMBURGUER PADRÃO,X-Bacon,"hamburguer, presunto, muçarela e bacon",,15.9,,False,False,False,False,False,False,aprovado
+9d58e13b5a6b,2026-11-10T14:36:09+00:00,images (1).jpeg,,BRL,HAMBURGUER PADRÃO,X-Salada,"alface, tomate, hamburguer, presunto, muçarela e bacon",,16.9,,False,False,False,False,False,False,aprovado
+9d58e13b5a6b,2026-11-10T14:36:09+00:00,images (1).jpeg,,BRL,HAMBURGUER PADRÃO,X-Tudo,"hamburguer, presunto, muçarela, salada, salsicha e ovo",,17.9,,False,False,False,False,False,False,aprovado
+9d58e13b5a6b,2026-11-10T14:36:09+00:00,images (1).jpeg,,BRL,HAMBURGUER PADRÃO,X-Completo,"2 hamburgueres, presunto, muçarela, salada, salsicha e ovo",,24.9,,False,False,False,False,False,False,aprovado
+9d58e13b5a6b,2026-11-10T14:36:09+00:00,images (1).jpeg,,BRL,HAMBURGUER ARTESANAL 150GR,X-Bacon,"hamburguer artesanal, presunto, muçarela e bacon",,22.9,,False,False,False,False,False,False,aprovado
+9d58e13b5a6b,2026-11-10T14:36:09+00:00,images (1).jpeg,,BRL,HAMBURGUER ARTESANAL 150GR,X-Salada,"alface, tomate, hamburguer artesanal, presunto, muçarela e bacon",,20.9,,False,False,False,False,False,False,aprovado
+9d58e13b5a6b,2026-11-10T14:36:09+00:00,images (1).jpeg,,BRL,HAMBURGUER ARTESANAL 150GR,X-Tudo,"hamburguer artesanal, presunto, muçarela, salada, salsicha e ovo",,25.9,,False,False,False,False,False,False,aprovado
+9d58e13b5a6b,2026-11-10T14:36:09+00:00,images (1).jpeg,,BRL,HAMBURGUER ARTESANAL 150GR,X-Completo,"2 hamburgueres artesanais, presunto, muçarela, salada, salsicha e ovo",,28.9,,False,False,False,False,False,False,aprovado
+9d58e13b5a6b,2026-11-10T14:36:09+00:00,images (1).jpeg,,BRL,LANCHES COM FRANGO,Frango bacon,"frango, bacon, muçarela e salada",,15.9,,False,False,False,False,False,False,aprovado
+9d58e13b5a6b,2026-11-10T14:36:09+00:00,images (1).jpeg,,BRL,LANCHES COM FRANGO,Frango salada,"frango, salada, muçarela e milho",,16.9,,False,False,False,False,False,False,aprovado
+9d58e13b5a6b,2026-11-10T14:36:09+00:00,images (1).jpeg,,BRL,LANCHES COM FRANGO,Frango tudo,"frango, muçarela, milho, salsicha, ovo e salada",,17.9,,False,False,False,False,False,False,aprovado
+9d58e13b5a6b,2026-11-10T14:36:09+00:00,images (1).jpeg,,BRL,LANCHES COM FRANGO,Frango completo,"dobre de frango, presunto, muçarela, salsicha e ovo",,24.9,,False,False,False,False,False,False,aprovado
+9d58e13b5a6b,2026-11-10T14:36:09+00:00,images (1).jpeg,,BRL,LANCHES COM LOMBO,Lombo bacon,"lombo, bacon, muçarela e salada",,15.9,,False,False,False,False,False,False,aprovado
+9d58e13b5a6b,2026-11-10T14:36:09+00:00,images (1).jpeg,,BRL,LANCHES COM LOMBO,Lombo salada,"lombo, salada, muçarela e milho",,16.9,,False,False,False,False,False,False,aprovado
+9d58e13b5a6b,2026-11-10T14:36:09+00:00,images (1).jpeg,,BRL,LANCHES COM LOMBO,Lombo tudo,"lombo, muçarela, milho, salsicha, ovo e salada",,17.9,,False,False,False,False,False,False,aprovado
+9d58e13b5a6b,2026-11-10T14:36:09+00:00,images (1).jpeg,,BRL,LANCHES COM LOMBO,Lombo completo,"dobre de lombo, presunto, muçarela, salsicha e ovo",,24.9,,False,False,False,False,False,False,aprovado
+9d58e13b5a6b,2026-11-10T14:36:09+00:00,images (1).jpeg,,BRL,LANCHES COM FILÉ,Filé bacon,"filé, bacon, muçarela e salada",,17.9,,False,False,False,False,False,False,aprovado
+9d58e13b5a6b,2026-11-10T14:36:09+00:00,images (1).jpeg,,BRL,LANCHES COM FILÉ,Filé salada,"filé, salada e muçarela",,19.9,,False,False,False,False,False,False,aprovado
+9d58e13b5a6b,2026-11-10T14:36:09+00:00,images (1).jpeg,,BRL,LANCHES COM FILÉ,Filé tudo,"filé, muçarela, milho, salsicha, ovo e salada",,20.9,,False,False,False,False,False,False,aprovado
+9d58e13b5a6b,2026-11-10T14:36:09+00:00,images (1).jpeg,,BRL,LANCHES COM FILÉ,Filé completo,"dobre de filé, presunto, muçarela, salsicha e ovo",,28.9,,False,False,False,False,False,False,aprovado
+9d58e13b5a6b,2026-11-10T14:36:09+00:00,images (1).jpeg,,BRL,ACOMPANHAMENTOS E BEBIDAS,Batata frita pequena,,,8.9,,False,False,False,False,False,False,aprovado
+9d58e13b5a6b,2026-11-10T14:36:09+00:00,images (1).jpeg,,BRL,ACOMPANHAMENTOS E BEBIDAS,Batata frita grande,,,12.9,,False,False,False,False,False,False,aprovado
+9d58e13b5a6b,2026-11-10T14:36:09+00:00,images (1).jpeg,,BRL,ACOMPANHAMENTOS E BEBIDAS,Refrigerante litro,,,7.9,,False,False,False,False,False,False,aprovado
+9d58e13b5a6b,2026-11-10T14:36:09+00:00,images (1).jpeg,,BRL,ACOMPANHAMENTOS E BEBIDAS,Refrigerante lata,,,3.9,,False,False,False,False,False,False,aprovado
+9d58e13b5a6b,2026-11-10T14:36:09+00:00,images (1).jpeg,,BRL,ACOMPANHAMENTOS E BEBIDAS,Cerveja lata,,,5.9,,False,False,False,False,False,False,aprovado
+9d58e13b5a6b,2026-11-10T14:36:09+00:00,images (1).jpeg,,BRL,ACOMPANHAMENTOS E BEBIDAS,Molho de alho,,,1.9,,False,False,False,False,False,False,aprovado
+9d58e13b5a6b,2026-11-10T14:36:09+00:00,images (1).jpeg,,BRL,ACOMPANHAMENTOS E BEBIDAS,Molho da casa,,,1.9,,False,False,False,False,False,False,aprovado

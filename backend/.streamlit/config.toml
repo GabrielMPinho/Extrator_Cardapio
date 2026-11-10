@@ -1,0 +1,27 @@
+# Tema claro e escuro. O padrão segue o sistema; o usuário troca no menu ⋮ (System / Light / Dark).
+[theme]
+font = "Instrument Sans:https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600&display=swap, sans-serif"
+headingFont = "Young Serif:https://fonts.googleapis.com/css2?family=Young+Serif&display=swap, serif"
+headingFontWeights = 400
+metricValueFontWeight = 500
+baseRadius = "8px"
+
+[theme.light]
+primaryColor = "#1F4E8C"
+backgroundColor = "#F5F7FA"
+secondaryBackgroundColor = "#E8EDF4"
+textColor = "#14202E"
+borderColor = "#D6DEE8"
+
+[theme.dark]
+primaryColor = "#8DB0E0"
+backgroundColor = "#121A24"
+secondaryBackgroundColor = "#1B2532"
+textColor = "#E6ECF3"
+borderColor = "#2C3949"
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "viewer"
